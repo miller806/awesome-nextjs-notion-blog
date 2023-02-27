@@ -1,27 +1,27 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '6a76fdd9ec6d4ae2855aa790d620eec4',
+  rootNotionPageId: 'b797b4bb916f429f8ff2676e7888a433',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '菜饼的技术博客',
+  name: '一滴泪的世界',
   domain: 'szufrank.top',
-  author: '菜饼同学',
+  author: 'miller',
 
   // open graph metadata (optional)
-  description: '菜饼同学: 专注硬核技术，校招打法，个人认知体系成长',
-  socialImageTitle: '菜饼同学',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: '平凡不平庸',
+  socialImageTitle: 'miller',
+  socialImageSubtitle: '不脱发的程序员',
 
   // social usernames (optional)
-  twitter: null,
-  github: 'frankcbliu',
-  wechatPublicName: '菜饼不菜',
-  wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
-  notionPublic: 'https://frankcbliu.notion.site/6a76fdd9ec6d4ae2855aa790d620eec4',
+  //twitter: null,
+  github: 'miller806',
+  wechatPublicName: 'miller',
+  //wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
+  //notionPublic: 'https://frankcbliu.notion.site/6a76fdd9ec6d4ae2855aa790d620eec4',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
