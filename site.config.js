@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '一滴泪的世界',
-  domain: 'szufrank.top',
+  domain: 'miller.apple806.cc',
   author: 'miller',
 
   // open graph metadata (optional)
